@@ -3,7 +3,7 @@ Tugas Metode Numerik <br>
 Dosen Pengampuh : Anggay Luri Pramana,M.Kom
 
 # Bisection Method Code
-      def bisection(f, a, b, tol, max_iter):
+     def bisection(f, a, b, tol, max_iter):
           if f(a) * f(b) >= 0:
              print("Bisection method may not converge because f(a) and f(b) have the same sign.")
           return None
