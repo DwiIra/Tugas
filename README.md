@@ -1,5 +1,5 @@
-# Tugas Metode Numerik Pertemuan Ke-4
-Tugas Github Metode Numerik <br>
+# Tugas Bisection 
+Tugas Metode Numerik <br>
 Dosen Pengampuh : Anggay Luri Pramana,M.Kom
 
 # Bisection Method Code
