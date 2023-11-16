@@ -24,7 +24,7 @@ Dosen Pengampuh : Anggay Luri Pramana,M.Kom
 ```
 
 # Example usage:
-```
+```python
 def example_function(x):
     return (x*x*x*x)-(x*x*x) + (2*x*x)-(2*x)-12
 
@@ -39,3 +39,4 @@ def example_function(x):
        print(f"Approximate root: {root:.6f}")
     else:
        print("Bisection method did not converge.")
+```
